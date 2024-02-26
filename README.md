@@ -1,2 +1,2 @@
-# CRUD_RegistroEmpleados
-CRUD en C#
+**Bienvenido a mi pequeño proyecto en C#!** 😎
+Es un CRUD para Registro de Empleados.
