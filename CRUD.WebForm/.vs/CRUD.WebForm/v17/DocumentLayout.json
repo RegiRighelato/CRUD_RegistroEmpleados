@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|c:\\users\\regi\\desktop\\proyecto crud\\proyectocrud\\crud.webform\\crud.webform\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251792E6-EE8D-4125-AD00-A368E15E5C6C}|CRUD.DataLayer\\CRUD.DataLayer.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.datalayer\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251792E6-EE8D-4125-AD00-A368E15E5C6C}|CRUD.DataLayer\\CRUD.DataLayer.csproj|solutionrelative:crud.datalayer\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\site.mobile.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\site.mobile.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\crud.webform\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8008939A-7CE9-4EC4-BC9F-424856458853}|CRUD.WebForm\\CRUD.WebForm.csproj|solutionrelative:crud.webform\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.DataLayer\\Conexion.cs",
+              "RelativeDocumentMoniker": "CRUD.DataLayer\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.DataLayer\\Conexion.cs",
+              "RelativeToolTip": "CRUD.DataLayer\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:55:12.607Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Contact.aspx",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Contact.aspx",
+              "RelativeToolTip": "CRUD.WebForm\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T21:31:14.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Mobile.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Mobile.Master.designer.cs",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Site.Mobile.Master.designer.cs",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Mobile.Master.designer.cs",
+              "RelativeToolTip": "CRUD.WebForm\\Site.Mobile.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:29:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Mobile.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Mobile.Master.cs",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Site.Mobile.Master.cs",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Mobile.Master.cs",
+              "RelativeToolTip": "CRUD.WebForm\\Site.Mobile.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:29:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Master",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Site.Master",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Site.Master",
+              "RelativeToolTip": "CRUD.WebForm\\Site.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T21:29:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\About.aspx",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\About.aspx",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\About.aspx",
+              "RelativeToolTip": "CRUD.WebForm\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-26T21:24:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Web.Debug.config",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Web.Debug.config",
+              "RelativeToolTip": "CRUD.WebForm\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-26T21:20:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Web.Release.config",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Web.Release.config",
+              "RelativeToolTip": "CRUD.WebForm\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-26T21:19:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Default.aspx",
+              "RelativeDocumentMoniker": "CRUD.WebForm\\Default.aspx",
+              "ToolTip": "C:\\Users\\Regi\\Desktop\\proyecto crud\\ProyectoCrud\\CRUD.WebForm\\CRUD.WebForm\\Default.aspx",
+              "RelativeToolTip": "CRUD.WebForm\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-25T19:13:12.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

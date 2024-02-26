@@ -1,0 +1,11 @@
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\obj\Debug\CRUD.Bus.ED2F5D0F.Up2Date
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb

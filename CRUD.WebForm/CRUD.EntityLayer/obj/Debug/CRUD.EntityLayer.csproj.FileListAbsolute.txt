@@ -1,0 +1,6 @@
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\Regi\Desktop\ProyectoCrud\CRUD.WebForm\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb
